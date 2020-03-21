@@ -1,0 +1,96 @@
+#title{
+    max-width: 75%;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+}
+#ending{
+    max-width: 100%;
+    margin: center;
+}
+#section1{
+    max-width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#section2{
+    max-width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#section3{
+    max-width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#section4{
+    max-width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#resource{
+    max-width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#container{
+    width: 60%;
+    display: inline-block;
+}
+#trend{
+    max-width: 35%;
+    display: inline-block;
+}
+#gender1{
+    max-width: 35%;
+    display: inline-block;
+}
+#container1{
+    width: 63%;
+    float: right;
+}
+#gender2{
+    max-width: 35%;
+    display: inline-block;
+}
+#container2{
+    max-width: 70%;
+    width:500px;
+    height:500px;
+    display: inline-block;
+}
+#company1{
+    max-width: 35%;
+    display: inline-block;
+}
+#container3{
+    width: 60%;
+    float: right;
+}
+#container4{
+    max-width: 70%;
+    width:500px;
+    height:500px;
+    display: inline-block;
+}
+#company2{
+    max-width: 35%;
+    display: inline-block;
+}
+#city{
+    max-width: 35%;
+    display: inline-block;
+}
+#container7{
+    width: 60%;
+    float: right;
+}
+
+#parent {
+    margin-left:170px;
+    margin-right:170px;
+}
+
+
+
+
+
